@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jzyue
 
-### A coding beginner
+### An undergraduate in Spatial Information and Digital Technology
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whjjb&label=Profile views&color=0e75b6&style=flat" alt="whjjb" /> </p>
 
@@ -8,11 +8,11 @@
 
 - 🌱 I'm currently learning **AI, ML and CV**
 
-- 👯 I'm looking to collaborate on **open source projects**
+- 👯 I'm looking to collaborate on **open-source ML projects**
 
-- 🤝 I'm looking for help with **Linux**
+- 🤝 I'm currently improving my **Linux system skills**
 
-- 💬 Ask me about **Pytorch**
+- 💬 Ask me about **Pytorch and scikit-learn**
 
 - 📫 How to reach me **jzy2275755116@gmail.com**
 
