@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whjjb&show_icons=true&locale=en" alt="whjjb" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=whjjb" alt="whjjb" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=whjjb)](https://git.io/streak-stats)
