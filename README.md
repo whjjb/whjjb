@@ -2,7 +2,7 @@
 
 ### An undergraduate in Spatial Information and Digital Technology
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=whjjb&label=Profile views&color=0e75b6&style=flat" alt="whjjb" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=whjjb&icon=0&color=3" alt="whjjb" /> </p>
 
 - 🔭 I'm currently working on **Pedestrian Trajectory Prediction**
 
@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whjjb&show_icons=true&locale=en" alt="whjjb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whjjb&" alt="whjjb" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=whjjb" alt="whjjb" /></p>
