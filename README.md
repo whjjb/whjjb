@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Pytorch and scikit-learn**
 
-- 📫 How to reach me **jzy2275755116@gmail.com**
+- 📫 How to reach me **jzy2275755116 [at] gmail [dot] com**
 
 - ⚡ Fun fact **I love playing FPS😊**
 
@@ -26,18 +26,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
-
 <p>
-  <img align="left"
-       src="https://github-readme-stats-sandy-three-92.vercel.app/api/top-langs?username=whjjb&layout=compact&cache_seconds=86400"
-       alt="Top Languages" />
+  <a href="https://docs.anaconda.com/"><img src="https://skillicons.dev/icons?i=anaconda" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40"/></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="40"/></a>
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" height="40"/></a>
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/></a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" height="40"/></a>
 </p>
 
-<p>
-  <img align="center"
-       src="https://github-readme-stats-sandy-three-92.vercel.app/api?username=whjjb&show_icons=true&cache_seconds=86400"
-       alt="GitHub Stats" />
-</p>
+| Most Used Languages | GitHub Stats |
+|---|---|
+| <img src="https://github-readme-stats-sandy-three-92.vercel.app/api/top-langs?username=whjjb&layout=compact&cache_seconds=86400" /> | <img src="https://github-readme-stats-sandy-three-92.vercel.app/api?username=whjjb&show_icons=true&cache_seconds=86400" /> |
 
 [![GitHub Streak](https://github-readme-streak-stats-brown-three.vercel.app/?user=whjjb)](https://git.io/streak-stats)
