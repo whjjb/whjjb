@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jzyue
+# Hi👋, I'm Ziyue Jiang
 
 ### An undergraduate in Spatial Information and Digital Technology
 
@@ -37,8 +37,7 @@
   <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" height="40"/></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats-brown-three.vercel.app/?user=whjjb)](https://git.io/streak-stats)
+<img src="https://github-readme-stats-sandy-three-92.vercel.app/api/top-langs?username=whjjb&layout=compact&cache_seconds=86400" /> 
+<img src="https://github-readme-stats-sandy-three-92.vercel.app/api?username=whjjb&show_icons=true&cache_seconds=86400" />
 
-| Most Used Languages | GitHub Stats |
-|---|---|
-| <img src="https://github-readme-stats-sandy-three-92.vercel.app/api/top-langs?username=whjjb&layout=compact&cache_seconds=86400" /> | <img src="https://github-readme-stats-sandy-three-92.vercel.app/api?username=whjjb&show_icons=true&cache_seconds=86400" /> |
+[![GitHub Streak](https://github-readme-streak-stats-brown-three.vercel.app/?user=whjjb)](https://git.io/streak-stats)
