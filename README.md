@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Pytorch and scikit-learn**
 
-- 📫 How to reach me **jzy2275755116 [at] gmail [dot] com**
+- 📫 How to reach me **[jzy2275755116@gmail.com](mailto:jzy2275755116@gmail.com)**
 
 - ⚡ Fun fact **I love playing FPS😊**
 
